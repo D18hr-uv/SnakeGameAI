@@ -33,12 +33,9 @@ This project involves implementing an AI agent that learns to play the classic S
 ## 5. Results
 
 <p align="center">
-  <img src = ![Screenshot (90)_](https://github.com/user-attachments/assets/2dd33a70-36bd-4f83-85e7-269a1d73e42c) height ="150"/>
-
-  <img src=![Screenshot (91)](https://github.com/user-attachments/assets/8f5cc56f-8f06-44dc-ab77-b6dba0f642c9)
-   height="150"/>
-  <img src=![Screenshot (90)](https://github.com/user-attachments/assets/ebaa733d-fae1-4ea3-a6a2-ba835a22b1b5)
-   height="150"/>
+  ![Screenshot (90)_](https://github.com/user-attachments/assets/2dd33a70-36bd-4f83-85e7-269a1d73e42c) 
+  ![Screenshot (91)](https://github.com/user-attachments/assets/8f5cc56f-8f06-44dc-ab77-b6dba0f642c9)
+  ![Screenshot (90)](https://github.com/user-attachments/assets/ebaa733d-fae1-4ea3-a6a2-ba835a22b1b5)
 </p>
 
 <p align="center">

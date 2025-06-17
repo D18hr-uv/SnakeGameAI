@@ -34,18 +34,16 @@ This project involves implementing an AI agent that learns to play the classic S
 
 <p align="center">
   <img src=![Screenshot (90)_](https://github.com/user-attachments/assets/43ce6b9b-a991-46eb-9535-e39467e9aba6)
- alt="Image 1" width="200" height="150"/>
+   height="150"/>
   <img src=![Screenshot (91)](https://github.com/user-attachments/assets/8f5cc56f-8f06-44dc-ab77-b6dba0f642c9)
- alt="Image 2" width="200" height="150"/>
+   height="150"/>
   <img src=![Screenshot (90)](https://github.com/user-attachments/assets/ebaa733d-fae1-4ea3-a6a2-ba835a22b1b5)
- alt="Image 3" width="200" height="150"/>
+   height="150"/>
 </p>
 
 <p align="center">
-  <img src=![Figure_1_1](https://github.com/user-attachments/assets/0e3602c9-590d-4128-86b6-887362558e6a)
- alt="Image 1"  height="150"/>
-  <img src=![Figure_1](https://github.com/user-attachments/assets/9d450144-f85c-43fa-b574-3c03fe595a97)
- alt="Image 2"  height="150"/>
+  <img src=![Figure_1_1](https://github.com/user-attachments/assets/0e3602c9-590d-4128-86b6-887362558e6a) height="150"/>
+  <img src=![Figure_1](https://github.com/user-attachments/assets/9d450144-f85c-43fa-b574-3c03fe595a97) height="150"/>
 </p>
 
 *Note: This summary is based on automatic analysis and may not cover all files or features. For a full overview, please explore the [project source code on GitHub](https://github.com/D18hr-uv/SnakeGameAI).*
